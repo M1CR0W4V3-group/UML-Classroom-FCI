@@ -27,10 +27,10 @@
 
 # Autores
 
-* Lucas Tuon de Matos
 * Eduardo Oliveira Carvalho
-* Guilherme Ferreira Martins Ramos
 * Felipe Viviani Schulze
+* Guilherme Ferreira Martins Ramos
+* Lucas Tuon de Matos
 * Rodrigo Nascimento Tomaz
 
 
