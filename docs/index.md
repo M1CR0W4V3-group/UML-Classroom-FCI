@@ -36,13 +36,11 @@
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
   A Escola Infinito precisa de um sistema moderno e intuitivo para controlar a presença de seus alunos, já que até então,
   esse processo era feito no papel. A equipe Micro-Ondas recebeu a tarefa de automatizar o controle de presenças de modo
   que atenda os requisitos e expectativas dos gestores da escola. 
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
 
 * Requisitos Funcionais:
  
