@@ -98,7 +98,7 @@
   
 # Diagrama de Atividades
 
-![image](https://github.com/user-attachments/assets/bd77acd6-49ed-493f-bb7b-0159335c88d5)
+![Diagrama de AtividadesCerto drawio](https://github.com/user-attachments/assets/94910f05-1cb8-4d92-9009-5da5013b2217)
 
 # Diagrama de Casos de Uso
 
