@@ -98,7 +98,7 @@
   
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![image](https://github.com/user-attachments/assets/bd77acd6-49ed-493f-bb7b-0159335c88d5)
 
 # Diagrama de Casos de Uso
 
