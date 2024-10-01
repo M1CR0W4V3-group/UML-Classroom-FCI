@@ -41,6 +41,60 @@
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
 
+* Requisitos Funcionais:
+ 
+  • [RF001] Login
+    O usuário deve ser capaz de entrar no sistema utilizando usuário (email) e senha.
+    Deverá haver um login para pais, professores e admins.
+
+    - Pais só podem ver as faltas do(s) seu(s) filho(s)
+    - Professores podem aplicar as faltas da sua turma somente no dia atual;
+    - Admins podem alterar as faltas de qualquer momento.
+
+  • [RF002] Fazer cadastro
+    O usuário administrador deve ser capaz de criar uma conta de professores e pais no sistema inserindo dados como email,      nome e senha.
+  
+  • [RF003] Registrar e exibir Faltas
+    O sistema deve poder acessar, registrar,  alterar e exibir as faltas dos alunos em cada matéria.
+
+  • [RF004] Operar Banco de Dados da Escola
+    O sistema deve ter acesso a um banco de dados onde estão armazenados todos os dados dos alunos.
+
+  • [RF005] Acesso aos Cronogramas de Aulas
+    O sistema deve ter acesso aos horários de aula de todas as turmas.
+
+  • [RF006] Gerar relatório
+    O sistema deve ser capaz de gerar relatórios (faltas da semana, do mês e boletim) em relação às faltas dos alunos.
+
+  • [RF007] Notificação aos responsáveis
+    O sistema deve verificar as faltas dos alunos todo final de mês e notificar os pais/responsáveis se este exceder 20% de      faltas do total de aulas dadas até o momento.
+
+* Requisitos Não Funcionais:
+  
+  • [RNF001] LGPD
+    O sistema deve atender todos os requisitos da LGPD.
+
+  • RNF002] Acessibilidade
+    O sistema deve ser acessível e intuitivo.
+      - Tamanho e redimensionamento de fonte:
+    A fonte padrão deve ser de 16 pixels, pois fontes menores podem causar dificuldades a idosos e pessoas com deficiências     visuais. O redimensionamento da fonte deve ocorrer de forma adequada para não desformatar o site.
+    Utilização do VLibras.
+    Contraste de cor entre o texto e o fundo, modo de alto contraste e modo escuro.
+    Suporte ao teclado:
+	    - Todos os elementos interativos do site devem ser acessíveis via teclado, permitindo que os usuários usem sem o           mouse.
+
+  • [RNF003] Visualizar Faltas
+    Os pais só podem visualizar as faltas dos seus filhos
+    Os professores só podem visualizar as faltas dos seus alunos
+    Os administradores podem visualizar todas as faltas
+
+  • [RNF004] Aplicar Faltas
+    Os professores só podem aplicar as faltas do dia atual
+    Os administradores podem alterar as faltas a qualquer momento
+
+  • [RNF005] Criptografia de Senhas
+    A senha deve ser criptografada por meio de um hash na hora do cadastro e esse hash será salvo no banco de dados.
+  
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
