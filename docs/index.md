@@ -253,7 +253,8 @@ O sistema é projetado para fornecer um controle eficiente das faltas escolares,
 
 # Diagrama de Implantação
 
-![image](https://github.com/user-attachments/assets/9dc5967b-3cb3-4b59-82f6-16796659de5d)
+![image](https://github.com/user-attachments/assets/9ee2d3dc-924c-42f4-a1eb-ef267d92e597)
+
 
 
 # Referências
