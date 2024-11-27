@@ -248,7 +248,8 @@ O sistema é projetado para fornecer um controle eficiente das faltas escolares,
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![Imagem do WhatsApp de 2024-11-27 à(s) 15 39 06_05d881e6](https://github.com/user-attachments/assets/434c5447-cc2a-46c1-9d03-fee77fe942e8)
+
 
 # Diagrama de Implantação
 
