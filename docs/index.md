@@ -238,7 +238,8 @@ O sistema é projetado para fornecer um controle eficiente das faltas escolares,
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![image](https://github.com/user-attachments/assets/151246de-e03b-4748-abf9-961a68548552)
+
 
 # Diagrama de Classes
 
