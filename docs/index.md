@@ -224,8 +224,6 @@ Prioridade:            ◾ Essencial	      ◻ Importante  	◻ Desejável
 
 # Descrição dos Casos de Uso
 
-Atores:
-
   •Usuários: São o grupo central do sistema, aqueles que irão o utilizar. Poderão ser administradores, professores ou responsáveis dos alunos.
 
   •Administradores: Aqueles que irão gerenciar a aplicação, criando os demais usuários e modificando o registro de faltas, em casos de erros de registro por parte do professor.
@@ -233,11 +231,6 @@ Atores:
   •Professores: Acessam o painel de chamada para registrar a presença de alunos que sejam de sua matéria. Também podem gerar um relatório em PDF com base no registro de faltas.
 
   •Responsáveis: Acessam o histórico de falta do aluno de sua responsabilidade, podendo selecionar entre um ou mais, dependendo de quantos alunos tenha matriculado. Também podem gerar um relatório PDF das faltas de seus dependentes.
-
-Sistema de Presenças:
-
-  •É o software que armazena os dados e as funcionalidades. Apresenta a interface para os usuários com os registro de faltas, feito por integração aos dados do banco, e apresenta os relatórios.
-
 
 O sistema é projetado para fornecer um controle eficiente das faltas escolares, com a possibilidade de modificação, visualização e exportação de relatórios. Cada ator tem acesso as funcionalidades do software de acordo com sua função, com os administradores agindo por trás da aplicação, professores resgistrando as faltas de seus alunos e responsáveis visualizando a presença de seus dependentes.
 
