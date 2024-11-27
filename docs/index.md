@@ -243,7 +243,8 @@ O sistema é projetado para fornecer um controle eficiente das faltas escolares,
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![image](https://github.com/user-attachments/assets/52b906df-c94b-4d2b-b00f-363510db368c)
+
 
 # Diagrama de Estados
 
