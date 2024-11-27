@@ -218,7 +218,8 @@ Prioridade:            ◾ Essencial	      ◻ Importante  	◻ Desejável
 ![Diagrama de AtividadesCerto drawio](https://github.com/user-attachments/assets/94910f05-1cb8-4d92-9009-5da5013b2217)
 
 # Diagrama de Casos de Uso
-![image](https://github.com/user-attachments/assets/04f68a69-0e88-4836-8271-c166d029db0f)
+![image](https://github.com/user-attachments/assets/364b2f47-6b75-43b2-9376-d8e23a8a13dc)
+
 
 
 
