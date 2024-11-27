@@ -256,4 +256,4 @@ O sistema é projetado para fornecer um controle eficiente das faltas escolares,
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+- Pressman, R. S., & Maxim, B. R. (2021). Engenharia de software (9th ed.).
